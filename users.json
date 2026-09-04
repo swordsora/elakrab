@@ -1,0 +1,14 @@
+[
+  {
+    "username": "Saif_Eldin_Ryhan",
+    "password": "258*357*159*654",
+    "role": "developer",
+    "displayName": "المطور"
+  },
+  {
+    "username": "cashier",
+    "password": "cashier123",
+    "role": "cashier",
+    "displayName": "الكاشير"
+  }
+]

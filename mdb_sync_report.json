@@ -1,0 +1,9 @@
+{
+  "source": "/home/ubuntu/upload/datebase.mdb",
+  "date": "2026-08-30",
+  "customerTable": "Cus_Names",
+  "productTable": "Items_Names",
+  "customers": 9782,
+  "products": 67839,
+  "historyCustomers": 835
+}

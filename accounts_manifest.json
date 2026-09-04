@@ -1,0 +1,807 @@
+[
+  {
+    "username": "00",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "acc004",
+    "legacyKind": "21",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "admin",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "admin8",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Ahmed elhakem 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ahmed elsagan 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ahmed elsagan 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Ahmed FMC",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ahmed khalifa2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ali fmc",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ali1",
+    "legacyKind": "61",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ali2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ali3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "anasd2020",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "aya mohamed 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "aya mohamed 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Don Gasser",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "elsohagy 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "elsohagy 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "hady cs",
+    "legacyKind": "51",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "hady2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ima",
+    "legacyKind": "32",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "MMM",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "mohamed mostafa 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "mohamed mostafa 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Nehal fmc",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Rahma 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Rahma 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "RAHMA2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "RAHMA3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Shady",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "shady_s",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Shady1",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Shady2",
+    "legacyKind": "61",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "sony 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Yousef fmc",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Yousef2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "Yousef3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابراهيم محمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابراهيم محمد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابو احمد 1",
+    "legacyKind": "61",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابو احمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابواحمد2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابوادم",
+    "legacyKind": "41",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابوالشيخ 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ابوالشيخ 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد اسامه 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد اسامه 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد الحاكم 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد الحاكم 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد خالد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد خالد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد خلف 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد خلف 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد خليفه3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد عبد اللطيف2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد عبد اللطيف3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد محمود 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "احمد محمود 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسراء 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسراء خالد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسلام",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسلام السيد",
+    "legacyKind": "21",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسلام صابر",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسماء خ ع",
+    "legacyKind": "51",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اسماء2",
+    "legacyKind": "41",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "الحاج علاء",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "المصري 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "المصري 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "امانى 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "امانى 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اميمة محمد",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "اميمة محمد2",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ايمان البدرى2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ايمان البدرى3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ايمان محمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ايمان محمد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "بسمه",
+    "legacyKind": "21",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "بسمه 2",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "بسمه2",
+    "legacyKind": "42",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "حمدي احمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "حمدي احمد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "رحمه 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "رحمه ممدوح 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "رحمه ممدوح 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "روفيدا محمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "روفيدا محمد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "سيد عبدالباسط 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "سيد عبدالباسط 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شرين 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شرين 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شيماء 2",
+    "legacyKind": "41",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شيماء عبد العال 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شيماء عبد العال 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شيماء عبدالجواد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "شيماء عبدالجواد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "صموله 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "طارق 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "طارق 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبدالرحمن صابر2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبدالرحمن صابر3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبدالله 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبدالله 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبده 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبير محمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "عبير محمد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "فاطمه 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "فاطمه 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "فاطمه ايمن 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "فاطمه ايمن 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد الريفى 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد انور 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد انور 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد بهاء 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد صابر",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد صابر 1",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد صابر 2",
+    "legacyKind": "61",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد صابر 4",
+    "legacyKind": "12",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد عاشور",
+    "legacyKind": "21",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد علاء 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد مختار 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد مختار 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمد موسى",
+    "legacyKind": "11",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود رجب 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود رجب 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود عثمان 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود عثمان 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود محمد2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود ناجى 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "محمود ناجى 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مصطفي 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مصطفي 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مصطفي ابراهيم 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مصطفي ابراهيم 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مصطفى ممدوح 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مصطفى ممدوح 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "معتز 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "معتز 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ملك ناصر 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "مياده",
+    "legacyKind": "31",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ناهد رمضان",
+    "legacyKind": "51",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نجلاء فوزى 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نجلاء فوزى 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ندا حماده 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "ندى السيد 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نفين",
+    "legacyKind": "21",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نهال 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نهال 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نورعبدالكريم 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "نورعبدالكريم3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هاجر 2",
+    "legacyKind": "41",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هاجر ايمن2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هاجر ايمن3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هانى 1",
+    "legacyKind": "61",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هانى 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هدير السيد 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هند صادق 2",
+    "legacyKind": "62",
+    "passwordMigration": "manual-reset-required"
+  },
+  {
+    "username": "هند صادق 3",
+    "legacyKind": "63",
+    "passwordMigration": "manual-reset-required"
+  }
+]
