@@ -17,7 +17,7 @@
  * تمامًا، عرّف request(path, options, context) وأعد Response JSON متوافقًا.
  * هذا هو المكان المخصص لتعديل ربط قاعدة البيانات المركزية فقط.
  */
-window.TAWOOS_CENTRAL_CONFIG = {
+window.BILL_CENTRAL_CONFIG = {
   provider: 'custom-rest',
   baseUrl: 'https://3000-icvfeaxb8zgobmqlkioua-a3ed9d5f.us3.manus.computer/api/local',
   timeoutMs: 8000,
